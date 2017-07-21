@@ -34,7 +34,7 @@ board.on("ready", function() {
   });
 
   // Drive forwards
-  // Note, cw() vs ccw() might me different for you
+  // Note, cw() vs ccw() might be different for you
   // depending on how you mount the servos
   wheels.both.cw();
 
